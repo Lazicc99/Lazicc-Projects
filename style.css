@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  
+  html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  .error-block{
+    margin-top: 25px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+  }
+  body {
+    background-image: url('./images/pozadinawavy.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: system-ui;
+    color: #555555;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .trazi-img{
+    margin-left: 15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+ .container7{
+  border-radius: 15px;
+  border: rgba(118, 50, 221, 0.4);
+  background-color: rgba(255, 255, 255, 0.15);
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 505px;
+  height: 600px;
+  max-width: 940px;
+ }
+ .container8{
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 503px;
+  height: 40px;
+ }
+ .container12{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 503px;
+  margin-top: 20px;
+  height: 40px;
+ }
+ form{
+  width: 503px;
+  height: 40px;
+  display: block;
+ }
+ .form{
+  width: 503px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .search{
+    background-color: rgba(255, 255, 255, 0);
+    border:1px solid rgba(118, 50, 221, 0.4);
+    border-radius: 15px;
+    padding-top: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+    width: 380px;
+    color: #fff;
+    font-size: 15px;
+ }
+ .container13{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 503px;
+  height: 74px;
+ }
+ .container13 .grad-drzava{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  color:#fff;
+  text-align: center;
+ }
+ .container9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 503px;
+  height: 150px;
+  max-width: 940px;
+ }
+ .container9 .vreme-slika{
+  margin-left: auto;
+  margin-right: auto;
+  width: 128px;
+  height: 128px;
+ }
+ .container10{
+  margin-left: auto;
+  margin-right: auto;
+  width: 503px;
+  height: 104px;
+ }
+ .container10 .stepeni{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 38px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+ }
+ input::placeholder {
+  color: #fff;
+}
+input:focus{
+  outline:1px solid rgba(118, 50, 221, 0.4);
+}
+ .container10 .vreme{
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+ }
+ .container11{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 503px;
+  height: 52px;
+ }
+ .container11 img{
+  display: block;
+  width: 52px;
+  height: 52px;
+ }
+ .container11 .p1{
+  font-size: 18.5px;
+  color: #fff;
+ }
+ .container11 .p2{
+  font-size: 18.5px;
+  color: #fff;
+ }
+ .img1{
+  width: 30px;
+  height: 30px;
+  padding-left: 10px;
+ }
+ .img2{
+    width: 45px;
+    height: 45px;
+ }
